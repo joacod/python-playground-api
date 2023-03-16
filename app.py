@@ -1,6 +1,6 @@
 """This is the main entry point for the application."""
 from flask import Flask
-from services import get_show_info
+from src.services import get_show_info
 
 app = Flask(__name__)
 

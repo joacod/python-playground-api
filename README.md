@@ -21,5 +21,5 @@ Python playground Web API using [Flask](https://flask.palletsprojects.com/en/2.2
     - `pip install -r requirements.txt`
 
 ## Run the application
-At "/src" folder run:
+At root folder run:
 - `flask --app=app run`
