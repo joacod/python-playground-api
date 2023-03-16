@@ -1,4 +1,4 @@
-# Description: This is the main entry point for the application
+# This is the main entry point for the application
 
 from flask import Flask
 app = Flask(__name__)
