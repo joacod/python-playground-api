@@ -23,3 +23,7 @@ Python playground Web API using [Flask](https://flask.palletsprojects.com/en/2.2
 ## Run the application
 At root folder run:
 - `flask --app=app run`
+
+## Run Tests
+At root folder run:
+- `python -m unittest discover -p "*_test.py" -vv`
